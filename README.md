@@ -6,21 +6,23 @@ La WebApp permette visualizzazione e gestione CRUD di dati relativi ai Comuni, c
 
 ---
 
-## Requirements Engineering
-### Functional Requirements
+## Ingegneria dei Requisiti
+### Requisiti Funzionali
 - FR1: L’utente può visualizzare la lista dei Comuni
 - FR2: L’utente può aggiungere un nuovo Comune
 - FR3: L’utente può modificare i dati di un Comune esistente
 - FR4: L’utente può eliminare un Comune
+- ...
 
-### Non Functional Requirements
+### Requisiti non Funzionali
 - Semplicità di utilizzo
 - Rapid setup / rapid deploy locale
 - Persistenza dati senza necessità di installare DB esterni
 
-### Elicitation Techniques
+### Elicitazione dei requisiti
 - Analisi del dominio
 - Modellazione concettuale tramite UML (prodotta in Visual Paradigm)
+- ...
 
 ---
 
